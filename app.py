@@ -12,7 +12,7 @@ Tasks:
 [x]: Show the user the main inteface and get their input
 [x]: Allow users to add movies
 [x]: Show all their movies
-[]: Find a movie
+[x]: Find a movie
 [x]: Stop running the program when they type 'q'
 """
 
